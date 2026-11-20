@@ -188,21 +188,21 @@ def process_swc_files(input_folder, output_folder):
 
 
 # 设置输入和输出文件夹路径 Not reported
-#input_folder = './swc_data/swc_v3/test/Glia/astrocyte/Not reported'
-#input_folder = './swc_data/swc_v3/test/Glia/microglia/Iba1-positive'
+#input_folder = './swc_data/swc_v1/test/Glia/astrocyte/Not reported'
+#input_folder = './swc_data/swc_v1/test/Glia/microglia/Iba1-positive'
 
-#input_folder = './swc_data/swc_v3/test/interneuron/basket'
-#input_folder = './swc_data/swc_v3/test/interneuron/GABAergic'
-#input_folder = './swc_data/swc_v3/test/interneuron/Nitrergic/Not reported'
+#input_folder = './swc_data/swc_v1/test/interneuron/basket'
+#input_folder = './swc_data/swc_v1/test/interneuron/GABAergic'
+#input_folder = './swc_data/swc_v1/test/interneuron/Nitrergic/Not reported'
 
-#input_folder = './swc_data/swc_v3/test/principal cell/ganglion/Not reported'
-#input_folder = './swc_data/swc_v3/test/principal cell/granule'
-#input_folder = './swc_data/swc_v3/test/principal cell/medium spiny/Not reported'
-#input_folder = './swc_data/swc_v3/test/principal cell/Parachromaffin/Pheochromocytoma line 12'
-#input_folder = './swc_data/swc_v3/test/principal cell/Purkinje/Not reported'
-# input_folder = './swc_data/swc_v3/test/principal cell/pyramidal'
+#input_folder = './swc_data/swc_v1/test/principal cell/ganglion/Not reported'
+#input_folder = './swc_data/swc_v1/test/principal cell/granule'
+#input_folder = './swc_data/swc_v1/test/principal cell/medium spiny/Not reported'
+#input_folder = './swc_data/swc_v1/test/principal cell/Parachromaffin/Pheochromocytoma line 12'
+#input_folder = './swc_data/swc_v1/test/principal cell/Purkinje/Not reported'
+# input_folder = './swc_data/swc_v1/test/principal cell/pyramidal'
 
-#input_folder = './swc_data/swc_v3/test/sensory receptor'
+#input_folder = './swc_data/swc_v1/test/sensory receptor'
 
 
 ##输出文件路径

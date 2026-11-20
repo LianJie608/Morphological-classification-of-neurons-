@@ -143,10 +143,10 @@ def main():
         model = torch.load(model_filename)
     else:
         # model = cnn3d()
-        # model=cnn3d_multiscale()
+        model=cnn3d_multiscale()
 
         ##C3Dnet
-        model = get_model(sample_size=112, sample_duration=16, num_classes=6, in_channels=3)
+        #model = get_model(sample_size=112, sample_duration=16, num_classes=6, in_channels=3)
 
         # resnet-18
         # model =generate_model(model_depth=18,n_classes=6,n_input_channels=3, shortcut_type='B', conv1_t_size=7,
